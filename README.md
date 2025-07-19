@@ -47,40 +47,28 @@
   Donor-recipient tracking with availability alerts.  
   _Tech_: Flask, MySQL, Bootstrap  
   [🔗 View Project](https://github.com/Harshitha132/blood-donation-system)
-  <h2>📜 Certificates</h2>
+   📜 Certificates
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="30"/>
-        <b>Java Programming</b><br>
-        <small>Issued: Jan 2024</small><br>
-        <a href="https://link-to-certificate.com/java" target="_blank">🔗 View Certificate</a>
-      </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/python.png" width="30"/>
-        <b>Data Analysis with Python</b><br>
-        <small>Issued: Feb 2024</small><br>
-        <a href="https://link-to-certificate.com/data-analysis" target="_blank">🔗 View Certificate</a>
-      </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30"/>
-        <b>MySQL for Beginners</b><br>
-        <small>Issued: Mar 2024</small><br>
-        <a href="https://link-to-certificate.com/mysql" target="_blank">🔗 View Certificate</a>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🎖️ **Java Programming**  
+  _Coursera | Jan 2024_  
+  [🔗 View Certificate](https://your-link.com/java)
 
+- 📊 **Data Analysis with Python**  
+  _IBM via Coursera | Feb 2024_  
+  [🔗 View Certificate](https://your-link.com/data-analysis)
+
+- 🛢️ **MySQL for Beginners**  
+  _Udemy | Mar 2024_  
+  [🔗 View Certificate](https://your-link.com/mysql)
+angs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
+
+---
+       
 
 
 ### 📊 GitHub Stats:
 ![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitha132&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
-
----
+![Top L##
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-897b30298)
