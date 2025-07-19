@@ -47,22 +47,12 @@
   Donor-recipient tracking with availability alerts.  
   _Tech_: Flask, MySQL, Bootstrap  
   [🔗 View Project](https://github.com/Harshitha132/blood-donation-system)
-   📜 Certificates
+   ## 📜 Certificates
 
-- 🎖️ **Java Programming**  
-  _Coursera | Jan 2024_  
-  [🔗 View Certificate](https://your-link.com/java)
+[![Java Certificate](https://your-image-link.com/java.png)](https://your-link.com/java)
+[![Python Certificate](https://your-image-link.com/python.png)](https://your-link.com/data-analysis)
+[![MySQL Certificate](https://your-image-link.com/mysql.png)](https://your-link.com/mysql)
 
-- 📊 **Data Analysis with Python**  
-  _IBM via Coursera | Feb 2024_  
-  [🔗 View Certificate](https://your-link.com/data-analysis)
-
-- 🛢️ **MySQL for Beginners**  
-  _Udemy | Mar 2024_  
-  [🔗 View Certificate](https://your-link.com/mysql)
-angs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
-
----
        
 
 
