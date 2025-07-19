@@ -21,53 +21,33 @@
 
 
 ---
-
-### 📊 GitHub Stats:
-![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitha132&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
-
----
-
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-897b30298)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithasaravanan1304@gmail.com)
 ## 🚀 Projects
 
-### 🏥 Pharmacy Management System  
-**Description:** A web app for managing medicines, suppliers, and billing with alerts for stock & expiry.  
-**Tech Stack:** `Python (Flask)` • `MySQL` • `HTML/CSS` • `JavaScript`  
-🔗 [View Project](https://github.com/Harshitha132/pharmacy-management)
+- 🏥 **Pharmacy Management System**  
+  A full-stack app to manage medicines, suppliers, and billing with alerting system.  
+  _Tech_: Flask, MySQL, HTML/CSS, JS  
+  [🔗 View Project](https://github.com/Harshitha132/pharmacy-management)
 
----
+- 🧮 **Calculator App**  
+  GUI calculator supporting basic arithmetic operations.  
+  _Tech_: Java, Swing  
+  [🔗 View Project](https://github.com/Harshitha132/calculator-app)
 
-### 🧮 Calculator App (Java Swing)  
-**Description:** A GUI-based calculator that supports basic arithmetic operations.  
-**Tech Stack:** `Java` • `Swing`  
-🔗 [View Project](https://github.com/Harshitha132/calculator-app)
+- 👩‍💼 **Employee Management System**  
+  Desktop app to manage employee records using Java and MySQL.  
+  _Tech_: Java, Swing, JDBC  
+  [🔗 View Project](https://github.com/Harshitha132/employee-management-system)
 
----
+- 🎓 **Student Course Management**  
+  Platform to register students and assign courses.  
+  _Tech_: Spring Boot, MySQL, HTML/CSS  
+  [🔗 View Project](https://github.com/Harshitha132/student-course-management)
 
-### 👩‍💼 Employee Management System  
-**Description:** A desktop application to manage employee details like name, salary, position, and department.  
-**Tech Stack:** `Java` • `Swing` • `JDBC` • `MySQL`  
-🔗 [View Project](https://github.com/Harshitha132/employee-management-system)
-
----
-
-### 🎓 Student Course Management  
-**Description:** A platform to register students, assign courses, and view results.  
-**Tech Stack:** `Spring Boot` • `MySQL` • `HTML` • `CSS`  
-🔗 [View Project](https://github.com/Harshitha132/student-course-management)
-
----
-
-### 🩸 Blood Donation System  
-**Description:** A donor-recipient management system with request and availability tracking.  
-**Tech Stack:** `Flask` • `MySQL` • `Bootstrap`  
-🔗 [View Project](https://github.com/Harshitha132/blood-donation-system)
-
----
-<h2>📜 Certificates</h2>
+- 🩸 **Blood Donation System**  
+  Donor-recipient tracking with availability alerts.  
+  _Tech_: Flask, MySQL, Bootstrap  
+  [🔗 View Project](https://github.com/Harshitha132/blood-donation-system)
+  <h2>📜 Certificates</h2>
 
 <div align="center">
   <table>
@@ -93,3 +73,16 @@
     </tr>
   </table>
 </div>
+
+
+
+### 📊 GitHub Stats:
+![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitha132&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-897b30298)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithasaravanan1304@gmail.com)
+
