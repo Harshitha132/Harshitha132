@@ -1,85 +1,74 @@
-<h1 align="center">Hi there 👋, I'm Harshitha</h1>
-<h3 align="center">A Computer Science Engineer | Aspiring Data Analyst & Developer</h3>
+# 👋 Hi there, I'm Harshitha
 
-- 🔭 I’m currently working on building my **skills in data analysis and development**
-- 🌱 I’m currently learning **Data Structures, Data Analysis, Machine Learning, Git, and GitHub**
-- 💬 Ask me about **Java, C, C++, Python, HTML/CSS**
-- 👨‍💻 All of my projects are available at [github.com/Harshitha132](https://github.com/Harshitha132)
-- 📫 How to reach me: **harshithasaravanan1304@gmail.com**
-- ⚡ Fun facts:  
-  ▪️ I love learning new things and exploring them  
-  ▪️ I love building beautiful user interfaces and solving real-world problems
+🎓 A Computer Science Engineer | 🌟 Aspiring Data Analyst & Developer
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🚀 What I’m Working On
+🔭 Building skills in **Data Analysis**, **Machine Learning**, and **Full-Stack Development**  
+🌱 Currently learning: `DSA`, `ML`, `Python`, `Git/GitHub`
+
+💬 Ask me about: **Java, C, C++, Python, HTML/CSS**
+
+📫 Reach me at: [harshithasaravanan1304@gmail.com](mailto:harshithasaravanan1304@gmail.com)
+
+⚡ **Fun Facts**
+- I love learning new things & exploring tech.
+- Passionate about building beautiful UIs & solving real-world problems.
+
+---
+
+## 🛠️ Languages and Tools
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🚀 Projects
 
-- 🏥 **Pharmacy Management System**  
-  A full-stack app to manage medicines, suppliers, and billing with alerting system.  
-  _Tech_: Flask, MySQL, HTML/CSS, JS  
-  [🔗 View Project](https://github.com/Harshitha132/pharmacy-management)
+## 📁 Projects
 
-- 🧮 **Calculator App**  
-  GUI calculator supporting basic arithmetic operations.  
-  _Tech_: Java, Swing  
-  [🔗 View Project](https://github.com/Harshitha132/calculator-app)
+### 👩‍💼 Employee Management System
+- **Tech**: Java, Swing, JDBC  
+- 🔗 [View Project](https://github.com/Harshitha132/employee-management-system)
 
-- 👩‍💼 **Employee Management System**  
-  Desktop app to manage employee records using Java and MySQL.  
-  _Tech_: Java, Swing, JDBC  
-  [🔗 View Project](https://github.com/Harshitha132/employee-management-system)
+### 🏥 Pharmacy Management System
+- **Tech**: Flask, MySQL, HTML/CSS  
+- 🔗 [View Project](#)
 
-- 🎓 **Student Course Management**  
-  Platform to register students and assign courses.  
-  _Tech_: Spring Boot, MySQL, HTML/CSS  
-  [🔗 View Project](https://github.com/Harshitha132/student-course-management)
+### 🧮 Calculator App
+- **Tech**: Java, Swing  
+- 🔗 [View Project](#)
 
-- 🩸 **Blood Donation System**  
-  Donor-recipient tracking with availability alerts.  
-  _Tech_: Flask, MySQL, Bootstrap  
-  [🔗 View Project](https://github.com/Harshitha132/blood-donation-system)
-   <h2>📜 Certificates</h2>
+### 🎓 Student Course Management
+- **Tech**: Spring Boot, MySQL  
+- 🔗 [View Project](#)
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" width="30"/>
-        <b>Java Programming</b><br>
-        <small>Issued: Jan 2024</small><br>
-        <a href="https://link-to-certificate.com/java" target="_blank">🔗 View Certificate</a>
-      </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/python.png" width="30"/>
-        <b>Data Analysis with Python</b><br>
-        <small>Issued: Feb 2024</small><br>
-        <a href="https://link-to-certificate.com/data-analysis" target="_blank">🔗 View Certificate</a>
-      </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/mysql-logo.png" width="30"/>
-        <b>MySQL for Beginners</b><br>
-        <small>Issued: Mar 2024</small><br>
-        <a href="https://link-to-certificate.com/mysql" target="_blank">🔗 View Certificate</a>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🩸 Blood Donation System
+- **Tech**: Flask, MySQL, Bootstrap  
+- 🔗 [View Project](#)
 
+---
 
-### 📊 GitHub Stats:
-![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitha132&show_icons=true&theme=radical)
-![Top L##
+## 📜 Certifications
 
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-897b30298)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshithasaravanan1304@gmail.com)
+- Java Programming – Jan 2024 🔗 [View Certificate](#)
+- Data Analysis with Python – Feb 2024 🔗 [View Certificate](#)
+- MySQL for Beginners – Mar 2024 🔗 [View Certificate](#)
 
+---
+
+## 📊 GitHub Stats
+
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitha132&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha132&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harshitha-s-897b30298)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:harshithasaravanan1304@gmail.com)
